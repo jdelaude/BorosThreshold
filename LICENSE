@@ -1,31 +1,40 @@
-OUROBOROS PRIVATE RESEARCH LICENSE (OPRL v3.1)
+Ouroboros Private Research License (OPRL v1.0)
+Effective Date: April 25, 2025
 
-Copyright (c) Julien Delaude. All rights reserved.
+Copyright © 2025 Julien Delaude
 
----
+This license governs access to, use of, and reference to the work titled:
 
-This Work, including all texts, concepts, formalisms, and derived constructs, is protected under the Ouroboros Private Research License (OPRL v3.1).
+  “The Ouroboros Threshold: A Recursive Derivation of the Riemann Hypothesis”
 
-The following conditions apply:
+including all associated documents, models, formulas, expressions, code, diagrams, and intellectual constructs (hereafter “The Work”).
 
-1. Rights Reserved  
-   All rights of reproduction, distribution, citation, modification, public communication, and commercial use are strictly reserved. No part of the Work may be copied, distributed, cited, modified, adapted, republished, or otherwise exploited without the explicit prior written consent of the Author.
+By accessing or reading The Work, you agree to the following legally binding terms:
 
-2. Authorized Use  
-   Private reading and personal non-commercial study of the Work are permitted. No further usage, propagation, or external referencing is authorized.
+1. PERMITTED USE
+   - The Work may be accessed, read, and privately studied for non-commercial, non-public research purposes only.
+   - No part of The Work may be shared, distributed, posted, archived, or made available to third parties without the author’s express, written permission.
 
-3. No Public or Academic Use  
-   The Work may not be cited, referenced, quoted, or otherwise incorporated into academic, scientific, commercial, or creative works without formal written authorization.
+2. RESTRICTIONS
+   - Redistribution, citation, translation, adaptation, modification, or creation of derivative works is strictly prohibited.
+   - The Work may not be used in any academic, institutional, or commercial context, including but not limited to: research papers, patents, theses, coursework, presentations, or public repositories.
+   - The Work may not be submitted to third-party repositories (including but not limited to arXiv, HAL, ResearchGate, Zenodo, SSRN, or GitHub forks) without explicit, signed authorization from the author.
 
-4. No Derivative Works  
-   Creation of derivative works, adaptations, translations, annotations, or any form of secondary use based on this Work is prohibited.
+3. INTELLECTUAL OWNERSHIP
+   - All ideas, models, terminology (e.g., the “Ouroboros Axiom”), and formulations contained herein remain the sole intellectual property of the author.
+   - Referencing or rearticulating core constructs or terminology from The Work without acknowledgment constitutes a violation of international intellectual property law.
 
-5. Contact for Authorization  
-   For permission requests, collaborative inquiries, or further information, contact:
+4. NO LICENSE GRANTED
+   - This license does not grant any rights under copyright, trademark, patent, or trade secret law.
+   - This license is not a public license. It is a private research agreement governing viewership only.
 
-   Julien Delaude  
-   [LinkedIn Profile](https://www.linkedin.com/in/jdelaude)
+5. LEGAL NOTICE
+   - Unauthorized use, disclosure, or distribution of The Work may be subject to legal action under international copyright and intellectual property law.
+   - The author reserves the right to modify this license or revoke access at any time.
 
----
+6. CONTACT
+   - To request access, collaboration, or clarification, please contact the author directly and privately.
 
-This License applies universally and permanently to any Work bearing its declaration. Unauthorized use constitutes infringement and may result in legal action.
+Do not circulate. Do not cite. Do not replicate.
+
+All rights reserved.

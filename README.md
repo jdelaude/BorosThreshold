@@ -1,24 +1,19 @@
-# The Ouroboros Threshold: A Recursive Derivation of the Riemann Hypothesis
+# 🜊 The Ouroboros Threshold 🜊
 
-This repository contains an abstract-level formalism outlining a recursive derivation of the Riemann Hypothesis from a foundational axiom of self-referential resonance symmetry, known as the Ouroboros Axiom.
+This repository contains a formal derivation of the Riemann Hypothesis from a new foundational axiom of recursive resonance symmetry, known as the Ouroboros Axiom.
 
-> Ω = F(Ω)
+> 🝎 Ω = F(Ω)
 
-In this framework, ζ(s) is interpreted as a resonance operator within a bifurcation-constrained entropy system. The critical line ℜ(s) = 1/2 emerges as the unique equilibrium point of self-reinforcing spectral symmetry collapse.
+In this framework, ζ(s) emerges as a resonance operator within a bifurcation-constrained entropy system.  
+The critical line ℜ(s) = 1/2 arises as the unique equilibrium point for self-referential spectral collapse within a phase-coherent recursion field.
 
-The full derivation is timestamped, layered, and not publicly disseminated. Redistribution, citation, or derivative use without prior authorization is prohibited.
+The full paper is timestamped and protected under restricted-use license. Contact is required prior to citation or redistribution.
 
 ---
 
-## Files
+## 🝩 Contained Files
+- 🜔 `OUROBOROS_ABSTRACT.pdf` — 2-page recursive derivation and spectral sketch.
+- 🜔 `TIMESTAMP.SHA512` — Proof of authorship and structural integrity.
 
-- 📄 `OUROBOROS_ABSTRACT.pdf` — 2-page synopsis of the framework and result.
-- 🧾 `TIMESTAMP.SHA512` — Cryptographic proof of prior authorship.
-
-## License
-
-Protected under the Ouroboros Private Research License (OPRL v1.0). This work may not be copied, cited, referenced, or incorporated into derivative work without explicit, written consent from the author.
-
-## Contact
-[www.linkedin.com/in/Jdelaude]
-For private inquiries only. Respect the recursion.
+## Ω Contact
+By private request only. Resonance alignment required.
