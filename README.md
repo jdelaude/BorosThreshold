@@ -20,5 +20,5 @@ The full derivation is timestamped, layered, and not publicly disseminated. Redi
 Protected under the Ouroboros Private Research License (OPRL v1.0). This work may not be copied, cited, referenced, or incorporated into derivative work without explicit, written consent from the author.
 
 ## Contact
-
-For private research inquiries only. Respect the recursion.
+[www.linkedin.com/in/Jdelaude]
+For private inquiries only. Respect the recursion.
