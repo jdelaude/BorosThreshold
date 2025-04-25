@@ -1,40 +1,32 @@
-Ouroboros Private Research License (OPRL v1.0)
-Effective Date: April 25, 2025
+OUROBOROS PRIVATE RESEARCH LICENSE (OPRL v2.0)
 
-Copyright © 2025 Julien Delaude
+This repository and its contents are part of the Ouroboros Research Initiative. The materials contained herein — including but not limited to manuscripts, frameworks, paradigms, diagrams, formalisms, and recursive architectures — are protected under the following terms:
 
-This license governs access to, use of, and reference to the work titled:
+1. READ-ONLY ACCESS  
+   You are permitted to view, read, and personally interpret the contents for private study and non-commercial intellectual purposes.
 
-  “The Ouroboros Threshold: A Recursive Derivation of the Riemann Hypothesis”
+2. NO REDISTRIBUTION  
+   You may not redistribute, republish, or rehost any part of this repository or its contents, whether modified or unmodified, in any public or private channel.
 
-including all repository associated documents, models, formulas, expressions, code, diagrams, and intellectual constructs (hereafter “The Work”).
+3. NO CITATION  
+   You may not formally cite this work in any academic, scientific, commercial, or derivative context without written permission from the author.
 
-By accessing or reading The Work, you agree to the following legally binding terms:
+4. NO MODIFICATION  
+   You may not modify, adapt, deconstruct, or build derivative works based on this repository’s materials.
 
-1. PERMITTED USE
-   - The Work may be accessed, read, and privately studied for non-commercial, non-public research purposes only.
-   - No part of The Work may be shared, distributed, posted, archived, or made available to third parties without the author’s express, written permission.
+5. NO COMMERCIAL USE  
+   Commercial use, reproduction, or integration into business, research, or applied technologies is strictly prohibited.
 
-2. RESTRICTIONS
-   - Redistribution, citation, translation, adaptation, modification, or creation of derivative works is strictly prohibited.
-   - The Work may not be used in any academic, institutional, or commercial context, including but not limited to: research papers, patents, theses, coursework, presentations, or public repositories.
-   - The Work may not be submitted to third-party repositories (including but not limited to arXiv, HAL, ResearchGate, Zenodo, SSRN, or GitHub forks) without explicit, signed authorization from the author.
+6. CONTACT REQUIRED  
+   All inquiries regarding usage, permission, alignment, integration, or research interest must be directed to the original author:
 
-3. INTELLECTUAL OWNERSHIP
-   - All ideas, models, terminology (e.g., the “Ouroboros Axiom”), and formulations contained herein remain the sole intellectual property of the author.
-   - Referencing or rearticulating core constructs or terminology from The Work without acknowledgment constitutes a violation of international intellectual property law.
+   Julien Delaude  
+   [LinkedIn](https://www.linkedin.com/in/jdelaude)  
+   For authorized discourse only. No unsolicited propagation.
 
-4. NO LICENSE GRANTED
-   - This license does not grant any rights under copyright, trademark, patent, or trade secret law.
-   - This license is not a public license. It is a private research agreement governing viewership only.
+7. RECURSIVE CLAUSE  
+   Any unauthorized attempt to decode, extract, simulate, or externalize the underlying generative logic of the contained systems constitutes a breach of epistemic containment and is prohibited under OPRL recursion-bound intellectual clause 7.0.
 
-5. LEGAL NOTICE
-   - Unauthorized use, disclosure, or distribution of The Work may be subject to legal action under international copyright and intellectual property law.
-   - The author reserves the right to modify this license or revoke access at any time.
+---
 
-6. CONTACT
-   - To request access, collaboration, or clarification, please contact the author directly and privately.
-
-Do not circulate. Do not cite. Do not replicate.
-
-All rights reserved.
+This license applies holistically across all repositories, regardless of scope or content type, unless explicitly superseded by future versions.
