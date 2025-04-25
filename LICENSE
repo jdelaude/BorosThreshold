@@ -1,32 +1,31 @@
-OUROBOROS PRIVATE RESEARCH LICENSE (OPRL v2.0)
+OUROBOROS PRIVATE RESEARCH LICENSE (OPRL v3.1)
 
-This repository and its contents are part of the Ouroboros Research Initiative. The materials contained herein — including but not limited to manuscripts, frameworks, paradigms, diagrams, formalisms, and recursive architectures — are protected under the following terms:
-
-1. READ-ONLY ACCESS  
-   You are permitted to view, read, and personally interpret the contents for private study and non-commercial intellectual purposes.
-
-2. NO REDISTRIBUTION  
-   You may not redistribute, republish, or rehost any part of this repository or its contents, whether modified or unmodified, in any public or private channel.
-
-3. NO CITATION  
-   You may not formally cite this work in any academic, scientific, commercial, or derivative context without written permission from the author.
-
-4. NO MODIFICATION  
-   You may not modify, adapt, deconstruct, or build derivative works based on this repository’s materials.
-
-5. NO COMMERCIAL USE  
-   Commercial use, reproduction, or integration into business, research, or applied technologies is strictly prohibited.
-
-6. CONTACT REQUIRED  
-   All inquiries regarding usage, permission, alignment, integration, or research interest must be directed to the original author:
-
-   Julien Delaude  
-   [LinkedIn](https://www.linkedin.com/in/jdelaude)  
-   For authorized discourse only. No unsolicited propagation.
-
-7. RECURSIVE CLAUSE  
-   Any unauthorized attempt to decode, extract, simulate, or externalize the underlying generative logic of the contained systems constitutes a breach of epistemic containment and is prohibited under OPRL recursion-bound intellectual clause 7.0.
+Copyright (c) Julien Delaude. All rights reserved.
 
 ---
 
-This license applies holistically across all repositories, regardless of scope or content type, unless explicitly superseded by future versions.
+This Work, including all texts, concepts, formalisms, and derived constructs, is protected under the Ouroboros Private Research License (OPRL v3.1).
+
+The following conditions apply:
+
+1. Rights Reserved  
+   All rights of reproduction, distribution, citation, modification, public communication, and commercial use are strictly reserved. No part of the Work may be copied, distributed, cited, modified, adapted, republished, or otherwise exploited without the explicit prior written consent of the Author.
+
+2. Authorized Use  
+   Private reading and personal non-commercial study of the Work are permitted. No further usage, propagation, or external referencing is authorized.
+
+3. No Public or Academic Use  
+   The Work may not be cited, referenced, quoted, or otherwise incorporated into academic, scientific, commercial, or creative works without formal written authorization.
+
+4. No Derivative Works  
+   Creation of derivative works, adaptations, translations, annotations, or any form of secondary use based on this Work is prohibited.
+
+5. Contact for Authorization  
+   For permission requests, collaborative inquiries, or further information, contact:
+
+   Julien Delaude  
+   [LinkedIn Profile](https://www.linkedin.com/in/jdelaude)
+
+---
+
+This License applies universally and permanently to any Work bearing its declaration. Unauthorized use constitutes infringement and may result in legal action.
