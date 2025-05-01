@@ -1,4 +1,4 @@
-# 🜊 The Spider Web Conjecture 🜊
+# 🜊 The Riemann Hypothesis 🜊
 
 This repository contains a formal derivation of the Riemann Hypothesis from a new foundational axiom of recursive resonance symmetry, known as the Ouroboros Axiom.
 
