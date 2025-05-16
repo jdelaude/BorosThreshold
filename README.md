@@ -1,4 +1,4 @@
-# 🜊 The Riemann Hypothesis 🜊
+# 🜊 The Riemann Hypothesis 🜊 10.5281/zenodo.15445550
 
 This repository contains the formal derivation of the Riemann Hypothesis from a new foundational axiom of recursive resonance symmetry, known as the Ouroboros Axiom.
 
