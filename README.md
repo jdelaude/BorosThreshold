@@ -24,7 +24,6 @@ The repository and all files are timestamped and protected under a restricted-us
 ## Ω Citation & Contact
 
 To cite or reference this work, or to request further details or collaboration, contact the author directly.  
-**Resonance alignment required.**  
 Contact: Julien Delaude - [re.daemonium@gmail.com]
 
 ---
